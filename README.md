@@ -1,5 +1,5 @@
 # coding.prob.1.1
-The following problems are from "Daily Coding Problem: Get excoptionally good at coding interviews by solving one problem every day" by Alex Miller and Lawrence Wu. The solutions are my own.
+The following problems are from "Daily Coding Problem: Get exceptionally good at coding interviews by solving one problem every day" by Alex Miller and Lawrence Wu. The solutions are my own.
 
 Chapter 1 - Arrays
 
